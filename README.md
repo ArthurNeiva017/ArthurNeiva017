@@ -28,10 +28,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQG2NGUnE_LNlw/profile-displayphoto-shrink_200_200/B4DZU6Qt4rHkAY-/0/1740439216616?e=1751500800&v=beta&t=dEPPthS4Lf-wFFOF24C8FmUU8IHjKl-tZp0_MOrhLvQ"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurNeiva017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurNeiva017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
