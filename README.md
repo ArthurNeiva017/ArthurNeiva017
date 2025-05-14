@@ -34,6 +34,43 @@
 
 ###
 
+<h2 align="left">📖 Projetos</h2>
+
+###
+
+<div align="left">
+  <a href="https://arthurneiva017.github.io/verdade-ou-desafio-responsivo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%83%8FJogo%20de%20Cartas&logo=gitlab&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://arthurneiva017.github.io/Triagem-Medica/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%A7%ACTriagem%20M%C3%A9dica&logo=gitlab&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://arthurneiva017.github.io/Projeto-Portifolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%93%91Projeto%20Portfolio&logo=gitlab&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://arthurneiva017.github.io/verdade-ou-desafio-responsivo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%95%B9%EF%B8%8FJogo%20Verdade%20ou%20Desafio&logo=gitlab&label=&color=0000FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
+  </a>
+</div>
+
+###
+
+
 <h2 align="left">🚀 Status GitHub</h2>
 
 ###
