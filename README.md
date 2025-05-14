@@ -79,8 +79,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurNeiva017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Arthur%20Neiva" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurNeiva017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurNeiva017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&custom_title=Arthur%20Neiva" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurNeiva017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -90,7 +90,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&radius=16&theme=high-contrast&area=true&order=5&line=FFFF00&title_color=FFFF00&area_color=FFFF00&color=00FFFF" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
