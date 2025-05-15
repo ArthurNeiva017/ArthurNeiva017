@@ -66,14 +66,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://arthurneiva017.github.io/verdade-ou-desafio-responsivo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%F0%9F%95%B9%EF%B8%8FJogo%20Verdade%20ou%20Desafio&logo=gitlab&label=&color=0000FF&logoColor=blue&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">🔥Status GitHub</h2>
 
 ###
