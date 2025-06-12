@@ -54,15 +54,15 @@
 
 <div align="left">
   <a href="https://arthurneiva017.github.io/Jogo-Matematica/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20%F0%9F%93%91Jogo%20de%20Matematica&logo=gitlab&label=&color=&logoColor=green&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
+    <img src="https://img.shields.io/static/v1?message=%20%F0%9F%93%91Jogo%20de%20cartas&logo=gitlab&label=&color=&logoColor=green&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://arthurneiva017.github.io/Jogo-Matematica/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20%F0%9F%93%91Jogo%20de%20Matematica&logo=gitlab&label=&color=&logoColor=green&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
+  <a href="https://arthurneiva017.github.io/Triagem-Medica/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20%F0%9F%A7%ACTriagem%20m%C3%A9dica&logo=gitlab&label=&color=A020F0&logoColor=purple&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
 </div>
 
