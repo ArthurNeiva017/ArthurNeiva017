@@ -81,7 +81,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=ArthurNeiva017&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArthurNeiva017&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -91,7 +91,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&radius=19&theme=high-contrast&area=true&order=5&line=FFFF00&title_color=FFFF00&area_color=FFFF00&color=00FFFF&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es%20no%20Projeto" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
