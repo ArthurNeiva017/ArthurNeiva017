@@ -1,0 +1,22 @@
+[
+  {
+    "name": "STR OSINT Fusion",
+    "repo": "ArthurNeiva017/STR-OSINT-FUSION",
+    "description": "Plataforma OSINT para Kali Linux com interface CLI e modo Web local, integração de múltiplas ferramentas e geração de relatórios.",
+    "tags": [
+      "Python",
+      "FastAPI",
+      "OSINT"
+    ]
+  },
+  {
+    "name": "Cyber Threat Hub",
+    "repo": "ArthurNeiva017/Plataforma-Cyber-Threat-Hub",
+    "description": "Plataforma de Cyber Threat Intelligence para centralizar ransomware, vulnerabilidades, notícias, grupos e alertas de ameaças.",
+    "tags": [
+      "JavaScript",
+      "CTI",
+      "Cybersecurity"
+    ]
+  }
+]
