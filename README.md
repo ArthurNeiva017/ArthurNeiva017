@@ -132,8 +132,7 @@ Learning:
 | ⚡ FastAPI | ██████░░░░ | REST APIs & Backend Development |
 | 🗄️ Database | ████████░░ | SQLite, MySQL |
 | 🐧 Linux | ██████░░░░| Kali Linux, Bash, System Administration |
-| 🚨 Incident Response | ████████░░ | Detection, Investigation & Analysis |
-| 🔐 Secure Development | ████████░░ | Secure Coding & Application Security |
+| 🚨 Incident Response | ████░░░░░░ | Detection, Investigation & Analysis |
 
 </div>
 
@@ -150,7 +149,7 @@ Learning:
 
 <br>
 <a href="https://github.com/ArthurNeiva017/Projeto-Integrador-CyberThreatHub">
-<img src="https://img.shields.io/badge/Cyber%20Threat%20Hub-181717?style=for-the-badge&logo=github"/>
+<img size="50" src="https://img.shields.io/badge/Cyber%20Threat%20Hub-181717?style=for-the-badge&logo=github&logoColor=c90c0c"/>
 </a>
 
 
@@ -213,7 +212,7 @@ Provide a centralized platform capable of helping analysts monitor ransomware ca
 
 <br>
 <a href="https://github.com/ArthurNeiva017/STR-OSINT-FUSION">
-<img src="https://img.shields.io/badge/STR%20OSINT%20FUSION-181717?style=for-the-badge&logo=github"/>
+<img size="50" src="https://img.shields.io/badge/STR%20OSINT%20FUSION-181717?style=for-the-badge&logo=github&logoColor=blue"/>
 </a>
 
 </summary>
@@ -292,7 +291,7 @@ Create one of the most complete OSINT investigation suites for Kali Linux by com
 
 # 📈 Contribution Activity
 
-<div align="center">
+<div align="left">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&theme=tokyo-night&hide_border=true"/>
 
