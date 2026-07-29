@@ -130,7 +130,7 @@ Learning:
 | 🐍 Python Development |  ███████░░░ | Automation, APIs, Data Processing, Security Tools |
 | 🌐 Web Development | ███████░░░ | HTML, CSS, JavaScript, Node.js |
 | ⚡ FastAPI | ██████░░░░ | REST APIs & Backend Development |
-| 🗄️ Database | ████████░░ | SQLite, MySQL |
+| 🗄️ Database | ████████░░ | SQLite, MySQL & Supabase |
 | 🐧 Linux | ██████░░░░| Kali Linux, Bash, System Administration |
 | 🚨 Incident Response | ████░░░░░░ | Detection, Investigation & Analysis |
 
