@@ -290,8 +290,12 @@ Create one of the most complete OSINT investigation suites for Kali Linux by com
 
 ---
 
+# 📈 Contribution Activity
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurNeiva017&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
