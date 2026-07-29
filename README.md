@@ -127,11 +127,11 @@ Learning:
 |---------|-------------|-------------|
 | 🛡️ Threat Intelligence | ██████████ | IOC Analysis, Threat Hunting, CTI Reports, Threat Actors |
 | 🔍 Open Source Intelligence (OSINT) | ██████████ | Username, Email, Domain & Infrastructure Investigations |
-| 🐍 Python Development | ███████░░░░ | Automation, APIs, Data Processing, Security Tools |
-| 🌐 Web Development | █████████░ | HTML, CSS, JavaScript, Node.js |
-| ⚡ FastAPI | ████████░░ | REST APIs & Backend Development |
+| 🐍 Python Development |  ███████░░░ | Automation, APIs, Data Processing, Security Tools |
+| 🌐 Web Development | ███████░░░ | HTML, CSS, JavaScript, Node.js |
+| ⚡ FastAPI | ██████░░░░ | REST APIs & Backend Development |
 | 🗄️ Database | ████████░░ | SQLite, MySQL |
-| 🐧 Linux | ████████░░░░| Kali Linux, Bash, System Administration |
+| 🐧 Linux | ██████░░░░| Kali Linux, Bash, System Administration |
 | 🚨 Incident Response | ████████░░ | Detection, Investigation & Analysis |
 | 🔐 Secure Development | ████████░░ | Secure Coding & Application Security |
 
