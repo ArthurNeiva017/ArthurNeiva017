@@ -73,7 +73,7 @@ Learning:
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=supabase"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
@@ -191,7 +191,7 @@ CyberThreatHub is a platform designed to centralize Cyber Threat Intelligence in
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
-<img src="https://skillicons.dev/icons?i=supabase"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
 ---
 
