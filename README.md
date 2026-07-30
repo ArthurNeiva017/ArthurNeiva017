@@ -43,6 +43,10 @@ Learning:
   - FastAPI
   - Docker
 ```
+---
+# 📊 GitHub Stats:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArthurNeiva017&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ArthurNeiva017&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurNeiva017&layout=compact&langs_count=9&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ArthurNeiva017&layout=compact&langs_count=9&theme=darksize=180)
 
 ---
 
