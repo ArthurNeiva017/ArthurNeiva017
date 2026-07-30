@@ -144,11 +144,11 @@ Learning:
 
 # 🚀 Featured Projects
 
-<details open>
+<details close>
 
 <summary>
 
-## 🛡️ CyberThreatHub
+## 🛡️ CYBER THREAT HUB
 
 
 <br>
@@ -208,11 +208,11 @@ Provide a centralized platform capable of helping analysts monitor ransomware ca
 
 ---
 
-<details open>
+<details close>
 
 <summary>
 
-# 🔎 STR-OSINT-FUSION
+# 🔎 STR OSINT FUSION
 
 <br>
 <a href="https://github.com/ArthurNeiva017/STR-OSINT-FUSION">
