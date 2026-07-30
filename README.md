@@ -136,7 +136,7 @@ Learning:
 | ⚡ FastAPI | ██████░░░░ | REST APIs & Backend Development |
 | 🗄️ Database | ████████░░ | SQLite, MySQL & Supabase |
 | 🐧 Linux | ██████░░░░| Kali Linux, Bash, System Administration |
-| 🚨 Incident Response | ████░░░░░░ | Detection, Investigation & Analysis |
+| 🚨 Incident Response | ███░░░░░░░ | Detection, Investigation & Analysis |
 
 </div>
 
