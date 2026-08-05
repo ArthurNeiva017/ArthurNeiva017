@@ -175,11 +175,7 @@ CyberThreatHub is a platform designed to centralize Cyber Threat Intelligence in
 
 - 📑 Vulnerabilities Database
 
-- 📰 Cybersecurity News Feed
-
-- 📧 Email Alerts
-
-- 💬 Microsoft Teams Notifications
+- 📰 Cybersecurity News Feeds
 
 ---
 
